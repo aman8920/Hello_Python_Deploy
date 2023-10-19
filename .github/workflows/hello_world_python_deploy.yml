@@ -25,4 +25,4 @@ jobs:
           python-version: 3  
 
       - name: Deploy
-        run: python hello.py
+        run: python hello_world_deploy.py
